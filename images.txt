@@ -9,6 +9,8 @@ rabbitmq:4.1.2-management
 
 grafana/loki:main-dfba28c
 
+minio/minio:RELEASE.2025-06-13T11-33-47Z-cpuv1
+
 mysql:9.3.0
 
 oraclelinux:9
