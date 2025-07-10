@@ -1,6 +1,16 @@
-#nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-#xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+nginx:1.29.0
+
+consul:1.15.4
+
+redis:8.0.3
+
+rabbitmq:4.1.2
+rabbitmq:4.1.2-management
+
+grafana/loki:main-dfba28c
+
+mysql:9.3.0
+
+oraclelinux:9
+
+yazmincastro/sqlserver:v1
