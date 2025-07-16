@@ -1,1 +1,1 @@
-ubuntu/dotnet-aspnet:8.0-24.04_beta
+rancher/rancher:head
