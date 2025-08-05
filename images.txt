@@ -1,1 +1,1 @@
-rancher/rancher:v2.11.3
+mongo:7.0
