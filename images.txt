@@ -1,1 +1,2 @@
-mongo:7.0
+prlx/waf:filebeat-master-latest
+prlx/waf:filebeat-master-11
