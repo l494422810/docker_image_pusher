@@ -1,2 +1,1 @@
-prlx/waf:filebeat-master-latest
-prlx/waf:filebeat-master-11
+zaproxy/zap-stable:sha256-51dbcc578b217ea7563b22a6948f5f41dd2002936fc5148300077f988663b4aa.att
